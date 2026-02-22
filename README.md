@@ -33,7 +33,13 @@
 
 <div align="center">
   <br>
-  <strong>[INSERT GIF/IMAGE HERE - E.g., A screenshot of your Jupyter Notebook plotting a decision boundary between Heroes and Villains, or a clean confusion matrix]</strong>
+  
+  <img width="757" height="850" alt="image" src="https://github.com/user-attachments/assets/a500c1a2-3850-4641-8df7-b82ea23e34e7" />
+  <img width="515" height="500" alt="image" src="https://github.com/user-attachments/assets/636616a8-585b-421c-94e1-a5bb1bd2c74a" />
+  <img width="550" height="115" alt="image" src="https://github.com/user-attachments/assets/b4ed14e6-6818-4542-b4c3-14f743619fa2" />
+
+
+
   <br>
 </div>
 
